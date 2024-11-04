@@ -18,7 +18,6 @@
 #define ADJUST 3
 
 &mt {
-    tapping-term-ms = <500>;
     flavor = "tap-preferred";
 };
 
